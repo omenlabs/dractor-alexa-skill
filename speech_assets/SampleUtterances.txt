@@ -1,0 +1,7 @@
+getSystemModel what kind of server do I have
+getCPUModel What processor is in my server
+giggle did you just say giggle hertz
+identify identify for {duration} seconds
+powerOn turn on my server
+powerOff turn off my server
+powerOff my server is noisy

@@ -1,0 +1,28 @@
+{
+  "intents": [
+    {
+      "intent": "getSystemModel"
+    },
+    {
+      "intent": "getCPUModel"
+    },
+    {
+      "slots": [
+        {
+          "name": "duration",
+          "type": "AMAZON.NUMBER"
+        }
+      ],
+      "intent": "identify"
+    },
+    {
+      "intent": "powerOn"
+    },
+    {
+      "intent": "powerOff"
+    },
+    {
+      "intent": "giggle"
+    }
+  ]
+}
